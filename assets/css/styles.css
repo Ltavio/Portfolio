@@ -11,8 +11,8 @@
 :root {
   --first-color: #4070f4;
   --second-color: #000000b2;
-  --third-color: #0095F6;
-  --fourth-color: #1EC5C5;
+  --third-color: #0095f6;
+  --fourth-color: #1ec5c5;
   --fifth-color: #fff;
   --gardient-color: linear-gradient(to right, #5001fb, #8e0af3);
 }
@@ -57,12 +57,12 @@
 }
 
 .img-habilidades {
-  position:relative;
+  position: relative;
   top: 3rem;
 }
 
 .img-topo {
-  position:relative;
+  position: relative;
   top: -4rem;
 }
 
@@ -133,7 +133,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background: #0095F6;
+  background: #0095f6;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -192,7 +192,7 @@ img {
   color: var(--fifth-color);
   font-size: 1.5rem;
   cursor: pointer;
-  position: relative; 
+  position: relative;
   left: -4.2rem;
 }
 
@@ -254,7 +254,6 @@ img {
 
 .home_img img {
   width: 100%;
-  
 }
 
 /* BUTTONS */
@@ -480,8 +479,6 @@ img {
 .footer_socials {
   margin-bottom: var(--mb-4);
 }
-
-
 
 .footer_icon {
   font-size: 1.5rem;
